@@ -563,7 +563,7 @@ ul > li {
   margin-right: 0px;
 }
 
-.site-menu__secion{
+.site-menu__sections{
   display:flex;
   justify-content: space-between;
 }
