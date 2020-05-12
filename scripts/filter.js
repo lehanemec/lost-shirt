@@ -3,7 +3,7 @@
 const iso = new Isotope( elem, {
   // options
   itemSelector: '.product__item',
-    filter:'.popular'
+    filter:'.new'
 });
 
     const controls = document.querySelectorAll('.filter__link');
