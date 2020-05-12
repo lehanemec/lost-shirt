@@ -578,7 +578,7 @@ ul > li {
 
 .site-menu__item {
   margin-bottom: 15px;
-
+  font-size: 15px;
 }
 
 .site-menu__link {
@@ -649,18 +649,18 @@ ul > li {
   display: flex;
 }
 
-.socials__items {
+.socials__item {
   margin-right: 30px;
 }
 
-.socials__items:last-child {
+.socials__item:last-child {
   margin-right: 0;
 }
 
 .socials__link {
   width: 38px;
   height: 38px;
-  display: block;
+  display: inline-block;
 }
 
 .socials__icon {
