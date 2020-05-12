@@ -563,6 +563,10 @@ ul > li {
   margin-right: 0px;
 }
 
+.site-menu__secion{
+  display:flex;
+  justify-content: space-between;
+}
 .site-menu__title {
   font-family: var(--titlesFont);
   text-transform: uppercase;
@@ -574,6 +578,7 @@ ul > li {
 
 .site-menu__item {
   margin-bottom: 15px;
+
 }
 
 .site-menu__link {
